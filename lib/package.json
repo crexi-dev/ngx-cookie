@@ -1,5 +1,5 @@
 {
-  "name": "ngx-cookie",
+  "name": "@crexi-dev/ngx-cookie",
   "version": "4.1.2",
   "description": "Implementation of Angular 1.x $cookies service to Angular",
   "repository": {
